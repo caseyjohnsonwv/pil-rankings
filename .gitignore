@@ -1,0 +1,13 @@
+*pycache*
+
+Include/
+Lib/
+Scripts/
+*.cfg
+
+share/
+
+*.env
+*.db
+
+results.csv
